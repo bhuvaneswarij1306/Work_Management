@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action">
+    <sys_ux_form_action action="INSERT_OR_UPDATE">
+        <action_type>ui_action</action_type>
+        <active>true</active>
+        <declarative_action/>
+        <description/>
+        <name>Send To Work Delivery Team</name>
+        <specificity>10</specificity>
+        <sys_class_name>sys_ux_form_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-09 06:39:35</sys_created_on>
+        <sys_id>d4c48a3a47ebb11014300592e36d43d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Send To Work Delivery Team</sys_name>
+        <sys_package display_value="Work management" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work management">eeca1c124763311014300592e36d4395</sys_scope>
+        <sys_update_name>sys_ux_form_action_d4c48a3a47ebb11014300592e36d43d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-09 06:39:35</sys_updated_on>
+        <table>x_1025229_wm_wm_job_details</table>
+        <ui_action display_value="Send To Work Delivery Team">e37de9ba47abb11014300592e36d438c</ui_action>
+    </sys_ux_form_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=d4c48a3a47ebb11014300592e36d43d4"/>
+</record_update>

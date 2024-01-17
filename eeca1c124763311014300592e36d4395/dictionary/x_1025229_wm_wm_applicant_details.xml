@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9b22e45a4763311014300592e36d4365" label="WM Applicant Details" max_length="40" name="x_1025229_wm_wm_applicant_details" type="collection">
+        <element label="ABN" mandatory="true" max_length="40" name="abn" type="string"/>
+        <element label="Address" mandatory="true" max_length="180" name="address" type="string"/>
+        <element label="Applicant Number" mandatory="true" max_length="40" name="applicant_number" type="string"/>
+        <element label="Email" mandatory="true" max_length="40" name="email" type="string"/>
+        <element label="Job Details Id" max_length="32" name="job_details_id" reference="x_1025229_wm_wm_job_details" type="reference"/>
+        <element label="Mobile Number" mandatory="true" max_length="40" name="mobile_number" type="string"/>
+        <element display="true" label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Applicant ID" max_length="40" name="number" read_only="true" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="job_details_id"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

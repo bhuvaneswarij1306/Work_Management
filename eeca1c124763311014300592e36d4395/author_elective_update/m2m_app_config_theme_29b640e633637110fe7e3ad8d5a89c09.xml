@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-08 02:50:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>29b640e633637110fe7e3ad8d5a89c09</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="WM" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WM">eeca1c124763311014300592e36d4395</sys_scope>
+        <sys_update_name>m2m_app_config_theme_29b640e633637110fe7e3ad8d5a89c09</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-08 02:50:26</sys_updated_on>
+        <theme display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</theme>
+        <ux_app_configuration display_value="">a9b640e697637110536d2085c3a2440a</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Work management">eeca1c124763311014300592e36d4395</application>
+        <file_path/>
+        <instance_id>9e30697edb3e4050387021c4059619e6</instance_id>
+        <instance_name>dev100078</instance_name>
+        <name>m2m_app_config_theme_29b640e633637110fe7e3ad8d5a89c09</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability/><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-08 02:50:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>29b640e633637110fe7e3ad8d5a89c09</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="WM" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package><sys_policy/><sys_scope display_value="WM">eeca1c124763311014300592e36d4395</sys_scope><sys_update_name>m2m_app_config_theme_29b640e633637110fe7e3ad8d5a89c09</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-08 02:50:26</sys_updated_on><theme display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</theme><ux_app_configuration display_value="">a9b640e697637110536d2085c3a2440a</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>-1877236891</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-08 07:58:39</sys_created_on>
+        <sys_id>744d49a647a7711014300592e36d4316</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ce814b1490000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-08 07:58:39</sys_updated_on>
+        <type>UX App Theme</type>
+        <update_guid>344d49a6f1a77110d367971587167b16</update_guid>
+        <update_guid_history>344d49a6f1a77110d367971587167b16:-1877236891</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">b84d49a647a7711014300592e36d4317</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-08 07:58:39</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>26279b313bcf4b1887ac7f251855d2d1</sys_id>
+        <sys_metadata>29b640e633637110fe7e3ad8d5a89c09</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Work management" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Work management">eeca1c124763311014300592e36d4395</sys_scope>
+        <sys_scope_delete display_value="">4807491dc1804798979cc7a23f579984</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_29b640e633637110fe7e3ad8d5a89c09</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_29b640e633637110fe7e3ad8d5a89c09">744d49a647a7711014300592e36d4316</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-08 07:58:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

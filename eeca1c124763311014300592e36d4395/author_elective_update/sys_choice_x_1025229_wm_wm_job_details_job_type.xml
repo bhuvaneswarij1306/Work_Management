@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="job_type" table="x_1025229_wm_wm_job_details" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>job_type</element>
+            <name>x_1025229_wm_wm_job_details</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 13:16:32</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>job_type</sys_name>
+            <sys_package display_value="Work management" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Work management">eeca1c124763311014300592e36d4395</sys_scope>
+            <sys_update_name>sys_choice_x_1025229_wm_wm_job_details_job_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 13:16:32</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Capital Work</dependent_value>
+            <element>job_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CF Simple</label>
+            <language>en</language>
+            <name>x_1025229_wm_wm_job_details</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 13:16:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 13:16:33</sys_updated_on>
+            <value>CF Simple</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Capital Work</dependent_value>
+            <element>job_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CF Complex</label>
+            <language>en</language>
+            <name>x_1025229_wm_wm_job_details</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 13:16:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 13:16:33</sys_updated_on>
+            <value>CF Complex</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Capital Work</dependent_value>
+            <element>job_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CF Subdivision</label>
+            <language>en</language>
+            <name>x_1025229_wm_wm_job_details</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 13:16:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 13:16:33</sys_updated_on>
+            <value>CF Subdivision</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Capital Work</dependent_value>
+            <element>job_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CF Fixed Price Pole to Pillar</label>
+            <language>en</language>
+            <name>x_1025229_wm_wm_job_details</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 13:16:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 13:16:33</sys_updated_on>
+            <value>CF Fixed Price Pole to Pillar</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Capital Work</dependent_value>
+            <element>job_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CF Unmetered Supply</label>
+            <language>en</language>
+            <name>x_1025229_wm_wm_job_details</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 13:16:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 13:16:33</sys_updated_on>
+            <value>CF Unmetered Supply</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Capital Work</dependent_value>
+            <element>job_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CF Recoverable Works</label>
+            <language>en</language>
+            <name>x_1025229_wm_wm_job_details</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 13:16:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 13:16:33</sys_updated_on>
+            <value>CF Recoverable Works</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Capital Work</dependent_value>
+            <element>job_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CF Asset Relocation</label>
+            <language>en</language>
+            <name>x_1025229_wm_wm_job_details</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 13:16:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 13:16:33</sys_updated_on>
+            <value>CF Asset Relocation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Capital Work</dependent_value>
+            <element>job_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IF Capital Project</label>
+            <language>en</language>
+            <name>x_1025229_wm_wm_job_details</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 13:16:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 13:16:33</sys_updated_on>
+            <value>IF Capital Project</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Maintenance</dependent_value>
+            <element>job_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>P1</label>
+            <language>en</language>
+            <name>x_1025229_wm_wm_job_details</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 13:16:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 13:16:32</sys_updated_on>
+            <value>P1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Maintenance</dependent_value>
+            <element>job_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>P2</label>
+            <language>en</language>
+            <name>x_1025229_wm_wm_job_details</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 13:16:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 13:16:32</sys_updated_on>
+            <value>P2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Maintenance</dependent_value>
+            <element>job_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>R1</label>
+            <language>en</language>
+            <name>x_1025229_wm_wm_job_details</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 13:16:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 13:16:32</sys_updated_on>
+            <value>R1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Maintenance</dependent_value>
+            <element>job_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>R2</label>
+            <language>en</language>
+            <name>x_1025229_wm_wm_job_details</name>
+            <sequence>11</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 13:16:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 13:16:32</sys_updated_on>
+            <value>R2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Maintenance</dependent_value>
+            <element>job_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PQI</label>
+            <language>en</language>
+            <name>x_1025229_wm_wm_job_details</name>
+            <sequence>12</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 13:16:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 13:16:32</sys_updated_on>
+            <value>PQI</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Service Order</dependent_value>
+            <element>job_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work in the Vicinity</label>
+            <language>en</language>
+            <name>x_1025229_wm_wm_job_details</name>
+            <sequence>13</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 13:16:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 13:16:32</sys_updated_on>
+            <value>Work in the Vicinity</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Service Order</dependent_value>
+            <element>job_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Oversize Load Escort</label>
+            <language>en</language>
+            <name>x_1025229_wm_wm_job_details</name>
+            <sequence>14</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 13:16:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 13:16:32</sys_updated_on>
+            <value>Oversize Load Escort</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Service Order</dependent_value>
+            <element>job_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Discon / Recon</label>
+            <language>en</language>
+            <name>x_1025229_wm_wm_job_details</name>
+            <sequence>15</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 13:16:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 13:16:32</sys_updated_on>
+            <value>Discon / Recon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Technical Query</dependent_value>
+            <element>job_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WAPC Application</label>
+            <language>en</language>
+            <name>x_1025229_wm_wm_job_details</name>
+            <sequence>16</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 13:16:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 13:16:33</sys_updated_on>
+            <value>WAPC Application</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Technical Query</dependent_value>
+            <element>job_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HP Internal Queries</label>
+            <language>en</language>
+            <name>x_1025229_wm_wm_job_details</name>
+            <sequence>17</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 13:16:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 13:16:33</sys_updated_on>
+            <value>HP Internal Queries</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Technical Query</dependent_value>
+            <element>job_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Feasibility Study</label>
+            <language>en</language>
+            <name>x_1025229_wm_wm_job_details</name>
+            <sequence>18</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 13:16:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 13:16:33</sys_updated_on>
+            <value>Feasibility Study</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Regulatory Compliance</dependent_value>
+            <element>job_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Incident Investigation</label>
+            <language>en</language>
+            <name>x_1025229_wm_wm_job_details</name>
+            <sequence>19</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 13:16:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 13:16:33</sys_updated_on>
+            <value>Incident Investigation</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

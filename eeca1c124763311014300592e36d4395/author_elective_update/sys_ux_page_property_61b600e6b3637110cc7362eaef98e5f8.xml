@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>listConfigId</name>
+        <page display_value="WM">25b640e6746371104a96422bc726c60a</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-08 02:50:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>61b600e6b3637110cc7362eaef98e5f8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>listConfigId</sys_name>
+        <sys_package display_value="WM" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WM">eeca1c124763311014300592e36d4395</sys_scope>
+        <sys_update_name>sys_ux_page_property_61b600e6b3637110cc7362eaef98e5f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-08 02:50:29</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1025229_wm.25b640e6746371104a96422bc726c60a.root.listConfigId</unique_name>
+        <value>9ab680e64763711014300592e36d4336</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=61b600e6b3637110cc7362eaef98e5f8"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Work management">eeca1c124763311014300592e36d4395</application>
+        <file_path/>
+        <instance_id>9e30697edb3e4050387021c4059619e6</instance_id>
+        <instance_name>dev100078</instance_name>
+        <name>sys_ux_page_property_61b600e6b3637110cc7362eaef98e5f8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>listConfigId</name><page display_value="WM">25b640e6746371104a96422bc726c60a</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-08 02:50:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>61b600e6b3637110cc7362eaef98e5f8</sys_id><sys_mod_count>1</sys_mod_count><sys_name>listConfigId</sys_name><sys_package display_value="WM" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package><sys_policy/><sys_scope display_value="WM">eeca1c124763311014300592e36d4395</sys_scope><sys_update_name>sys_ux_page_property_61b600e6b3637110cc7362eaef98e5f8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-08 02:50:29</sys_updated_on><type>string</type><unique_name>x_1025229_wm.25b640e6746371104a96422bc726c60a.root.listConfigId</unique_name><value>9ab680e64763711014300592e36d4336</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=61b600e6b3637110cc7362eaef98e5f8"/></record_update>]]></payload>
+        <payload_hash>-466945118</payload_hash>
+        <record_name>listConfigId</record_name>
+        <reverted_from/>
+        <source>66ca1c124763311014300592e36d439a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-08 02:50:29</sys_created_on>
+        <sys_id>aeb680e64763711014300592e36d437d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ce6fa8e830000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-08 02:50:29</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>a6b680e6fc63711061b38ae106dd3c7d</update_guid>
+        <update_guid_history>a6b680e6fc63711061b38ae106dd3c7d:-466945118,a2b680e66b637110579c46082998da7c:1078150154</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-08 07:58:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>dc133840a9574c8483ff541faa29e590</sys_id>
+        <sys_metadata>61b600e6b3637110cc7362eaef98e5f8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>listConfigId</sys_name>
+        <sys_package display_value="Work management" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Work management">eeca1c124763311014300592e36d4395</sys_scope>
+        <sys_scope_delete display_value="">4807491dc1804798979cc7a23f579984</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_61b600e6b3637110cc7362eaef98e5f8</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_61b600e6b3637110cc7362eaef98e5f8">aeb680e64763711014300592e36d437d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-08 07:58:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

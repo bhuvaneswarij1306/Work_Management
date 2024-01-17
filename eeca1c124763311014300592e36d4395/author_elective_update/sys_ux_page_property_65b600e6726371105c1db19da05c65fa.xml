@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Main Configuration</description>
+        <name>chrome_main</name>
+        <page display_value="">25b640e6746371104a96422bc726c60a</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-08 02:50:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>65b600e6726371105c1db19da05c65fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_main</sys_name>
+        <sys_package display_value="WM" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WM">eeca1c124763311014300592e36d4395</sys_scope>
+        <sys_update_name>sys_ux_page_property_65b600e6726371105c1db19da05c65fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-08 02:50:25</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1025229_wm.25b640e6746371104a96422bc726c60a.root.chrome_main</unique_name>
+        <value>{&#13;
+  "maxCachedPageCount": 5,&#13;
+  "maxActivePageCount": 3,&#13;
+  "timeLeftWarning": 15&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Work management">eeca1c124763311014300592e36d4395</application>
+        <file_path/>
+        <instance_id>9e30697edb3e4050387021c4059619e6</instance_id>
+        <instance_name>dev100078</instance_name>
+        <name>sys_ux_page_property_65b600e6726371105c1db19da05c65fa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Main Configuration</description><name>chrome_main</name><page display_value="">25b640e6746371104a96422bc726c60a</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-08 02:50:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>65b600e6726371105c1db19da05c65fa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_main</sys_name><sys_package display_value="WM" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package><sys_policy/><sys_scope display_value="WM">eeca1c124763311014300592e36d4395</sys_scope><sys_update_name>sys_ux_page_property_65b600e6726371105c1db19da05c65fa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-08 02:50:25</sys_updated_on><type>json</type><unique_name>x_1025229_wm.25b640e6746371104a96422bc726c60a.root.chrome_main</unique_name><value>{&#13;
+  "maxCachedPageCount": 5,&#13;
+  "maxActivePageCount": 3,&#13;
+  "timeLeftWarning": 15&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-852230497</payload_hash>
+        <record_name>chrome_main</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-08 07:58:38</sys_created_on>
+        <sys_id>284d09a647a7711014300592e36d4361</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ce814ace10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-08 07:58:38</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>e44d09a6c8a77110c9c4cb594d747f61</update_guid>
+        <update_guid_history>e44d09a6c8a77110c9c4cb594d747f61:-852230497</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-08 07:58:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>8416a07b8579471b89b3012cee69ef51</sys_id>
+        <sys_metadata>65b600e6726371105c1db19da05c65fa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_main</sys_name>
+        <sys_package display_value="Work management" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Work management">eeca1c124763311014300592e36d4395</sys_scope>
+        <sys_scope_delete display_value="">4807491dc1804798979cc7a23f579984</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_65b600e6726371105c1db19da05c65fa</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_65b600e6726371105c1db19da05c65fa">284d09a647a7711014300592e36d4361</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-08 07:58:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="WM CF Job Details" language="en" table="x_1025229_wm_wm_cf_job_details">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>WM CF Job Details</label>
+            <language>en</language>
+            <name>x_1025229_wm_wm_cf_job_details</name>
+            <plural>WM CF Job Details</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 09:46:05</sys_created_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>WM CF Job Details</sys_name>
+            <sys_package display_value="Work management" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Work management">eeca1c124763311014300592e36d4395</sys_scope>
+            <sys_update_name>sys_documentation_x_1025229_wm_wm_cf_job_details__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 10:07:13</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

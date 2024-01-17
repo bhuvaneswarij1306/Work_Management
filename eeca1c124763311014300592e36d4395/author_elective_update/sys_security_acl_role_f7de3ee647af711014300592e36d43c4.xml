@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-08 16:17:29</sys_created_on>
+        <sys_id>f7de3ee647af711014300592e36d43c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1025229_wm.customer_experience_team</sys_name>
+        <sys_package display_value="Work management" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work management">eeca1c124763311014300592e36d4395</sys_scope>
+        <sys_security_acl display_value="">59de7a6a47af711014300592e36d4360</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f7de3ee647af711014300592e36d43c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-08 16:17:29</sys_updated_on>
+        <sys_user_role display_value="x_1025229_wm.customer_experience_team" name="x_1025229_wm.customer_experience_team">221d4252476b311014300592e36d4344</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Work management">eeca1c124763311014300592e36d4395</application>
+        <file_path/>
+        <instance_id>9e30697edb3e4050387021c4059619e6</instance_id>
+        <instance_name>dev100078</instance_name>
+        <name>sys_security_acl_role_f7de3ee647af711014300592e36d43c4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-08 16:17:29</sys_created_on><sys_id>f7de3ee647af711014300592e36d43c4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.x_1025229_wm.customer_experience_team</sys_name><sys_package display_value="Work management" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package><sys_policy/><sys_scope display_value="Work management">eeca1c124763311014300592e36d4395</sys_scope><sys_security_acl display_value="">59de7a6a47af711014300592e36d4360</sys_security_acl><sys_update_name>sys_security_acl_role_f7de3ee647af711014300592e36d43c4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-08 16:17:29</sys_updated_on><sys_user_role display_value="x_1025229_wm.customer_experience_team" name="x_1025229_wm.customer_experience_team">221d4252476b311014300592e36d4344</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1891479506</payload_hash>
+        <record_name>.x_1025229_wm.customer_experience_team</record_name>
+        <reverted_from/>
+        <source>66ca1c124763311014300592e36d439a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-08 16:17:29</sys_created_on>
+        <sys_id>3f6f36aa47af711014300592e36d4388</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ce9dd63e00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-08 16:17:29</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>736f36aa2daf71105a220e7b6dc8c188</update_guid>
+        <update_guid_history>736f36aa2daf71105a220e7b6dc8c188:1891479506</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".x_1025229_wm.customer_experience_team">95afbaaa47af711014300592e36d4345</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-08 16:18:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>42e0466ea3124e9a9681231056acc9e1</sys_id>
+        <sys_metadata>f7de3ee647af711014300592e36d43c4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_1025229_wm.customer_experience_team</sys_name>
+        <sys_package display_value="Work management" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Work management">eeca1c124763311014300592e36d4395</sys_scope>
+        <sys_scope_delete display_value="">4807491dc1804798979cc7a23f579984</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_f7de3ee647af711014300592e36d43c4</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_f7de3ee647af711014300592e36d43c4">3f6f36aa47af711014300592e36d4388</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-08 16:18:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_menu_config">
+    <sys_ux_list_menu_config action="DELETE">
+        <active>true</active>
+        <description/>
+        <name>WM_menu_config</name>
+        <sys_class_name>sys_ux_list_menu_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-08 02:50:28</sys_created_on>
+        <sys_id>9ab680e64763711014300592e36d4336</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WM_menu_config</sys_name>
+        <sys_package display_value="WM" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WM">eeca1c124763311014300592e36d4395</sys_scope>
+        <sys_update_name>sys_ux_list_menu_config_9ab680e64763711014300592e36d4336</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-08 02:50:28</sys_updated_on>
+    </sys_ux_list_menu_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Work management">eeca1c124763311014300592e36d4395</application>
+        <file_path/>
+        <instance_id>9e30697edb3e4050387021c4059619e6</instance_id>
+        <instance_name>dev100078</instance_name>
+        <name>sys_ux_list_menu_config_9ab680e64763711014300592e36d4336</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_menu_config"><sys_ux_list_menu_config action="INSERT_OR_UPDATE"><active>true</active><description/><name>WM_menu_config</name><sys_class_name>sys_ux_list_menu_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-08 02:50:28</sys_created_on><sys_id>9ab680e64763711014300592e36d4336</sys_id><sys_mod_count>0</sys_mod_count><sys_name>WM_menu_config</sys_name><sys_package display_value="WM" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package><sys_policy/><sys_scope display_value="WM">eeca1c124763311014300592e36d4395</sys_scope><sys_update_name>sys_ux_list_menu_config_9ab680e64763711014300592e36d4336</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-08 02:50:28</sys_updated_on></sys_ux_list_menu_config></record_update>]]></payload>
+        <payload_hash>1274762487</payload_hash>
+        <record_name>WM_menu_config</record_name>
+        <reverted_from/>
+        <source>66ca1c124763311014300592e36d439a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-08 02:50:28</sys_created_on>
+        <sys_id>6ab680e64763711014300592e36d4338</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ce6fa8c810000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-08 02:50:28</sys_updated_on>
+        <type>UX List Menu Configuration</type>
+        <update_guid>aeb680e6416371109bd2309a883b4137</update_guid>
+        <update_guid_history>aeb680e6416371109bd2309a883b4137:1274762487</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-08 07:58:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_list_menu_config">sys_ux_list_menu_config</sys_db_object>
+        <sys_id>132754fcb0f44db48ccb11c4bf05f610</sys_id>
+        <sys_metadata>9ab680e64763711014300592e36d4336</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WM_menu_config</sys_name>
+        <sys_package display_value="Work management" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Work management">eeca1c124763311014300592e36d4395</sys_scope>
+        <sys_scope_delete display_value="">4807491dc1804798979cc7a23f579984</sys_scope_delete>
+        <sys_update_name>sys_ux_list_menu_config_9ab680e64763711014300592e36d4336</sys_update_name>
+        <sys_update_version display_value="sys_ux_list_menu_config_9ab680e64763711014300592e36d4336">6ab680e64763711014300592e36d4338</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-08 07:58:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
