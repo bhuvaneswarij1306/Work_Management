@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Set Visible to fields for Asset Team</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+   if(g_user.hasRole('x_1025229_wm.asset_management_team')){
+	g_form.setVisible('design_and_planning',true);
+	g_form.setVisible('design_fee_invoice',true);
+	g_form.setVisible('construction_quote_and_invoice',true);
+	g_form.setVisible('cost_estimating_and_quoting',true);
+	g_form.setVisible('capitalisation',true);
+	g_form.setVisible('qa_and_data_update',true);
+	g_form.setVisible('business_case',true);
+	g_form.setVisible('close_out_and_completion',true);
+   }
+   else{
+	g_form.setVisible('design_and_planning',false);
+	g_form.setVisible('design_fee_invoice',false);
+	g_form.setVisible('construction_quote_and_invoice',false);
+	g_form.setVisible('cost_estimating_and_quoting',false);
+	g_form.setVisible('capitalisation',false);
+	g_form.setVisible('qa_and_data_update',false);
+	g_form.setVisible('business_case',false);
+	g_form.setVisible('close_out_and_completion',false);
+   }
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-09 19:30:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>25c3348b472bf11014300592e36d43d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Visible to fields for Asset Team</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Work management" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work management">eeca1c124763311014300592e36d4395</sys_scope>
+        <sys_update_name>sys_script_client_25c3348b472bf11014300592e36d43d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-09 19:30:06</sys_updated_on>
+        <table>x_1025229_wm_wm_job_details</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

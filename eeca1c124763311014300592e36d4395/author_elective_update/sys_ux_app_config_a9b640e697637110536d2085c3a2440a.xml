@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="DELETE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>WM App Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-08 02:50:26</sys_created_on>
+        <sys_id>a9b640e697637110536d2085c3a2440a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WM App Config</sys_name>
+        <sys_package display_value="WM" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WM">eeca1c124763311014300592e36d4395</sys_scope>
+        <sys_update_name>sys_ux_app_config_a9b640e697637110536d2085c3a2440a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-08 02:50:26</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Work management">eeca1c124763311014300592e36d4395</application>
+        <file_path/>
+        <instance_id>9e30697edb3e4050387021c4059619e6</instance_id>
+        <instance_name>dev100078</instance_name>
+        <name>sys_ux_app_config_a9b640e697637110536d2085c3a2440a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config"><sys_ux_app_config action="INSERT_OR_UPDATE"><active>true</active><custom_icon/><default_route_type/><description/><disable_auto_reflow>false</disable_auto_reflow><encode_query_string>false</encode_query_string><icon/><landing_path>home</landing_path><name>WM App Config</name><prefetch_limits/><sys_class_name>sys_ux_app_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-08 02:50:26</sys_created_on><sys_id>a9b640e697637110536d2085c3a2440a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>WM App Config</sys_name><sys_package display_value="WM" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package><sys_policy/><sys_scope display_value="WM">eeca1c124763311014300592e36d4395</sys_scope><sys_update_name>sys_ux_app_config_a9b640e697637110536d2085c3a2440a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-08 02:50:26</sys_updated_on></sys_ux_app_config></record_update>]]></payload>
+        <payload_hash>-1099974131</payload_hash>
+        <record_name>WM App Config</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-08 07:58:38</sys_created_on>
+        <sys_id>ac4d09a647a7711014300592e36d43be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ce814aec10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-08 07:58:38</sys_updated_on>
+        <type>UX App Configuration</type>
+        <update_guid>6c4d09a6a1a771100de44ec75313bcbe</update_guid>
+        <update_guid_history>6c4d09a6a1a771100de44ec75313bcbe:-1099974131</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-08 07:58:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_config">sys_ux_app_config</sys_db_object>
+        <sys_id>ba44db9bd6d84ca5b186b5216af318a1</sys_id>
+        <sys_metadata>a9b640e697637110536d2085c3a2440a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WM App Config</sys_name>
+        <sys_package display_value="Work management" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Work management">eeca1c124763311014300592e36d4395</sys_scope>
+        <sys_scope_delete display_value="">4807491dc1804798979cc7a23f579984</sys_scope_delete>
+        <sys_update_name>sys_ux_app_config_a9b640e697637110536d2085c3a2440a</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_config_a9b640e697637110536d2085c3a2440a">ac4d09a647a7711014300592e36d43be</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-08 07:58:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

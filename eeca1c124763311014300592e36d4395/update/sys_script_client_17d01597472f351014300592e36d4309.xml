@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>job_type</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Show conditions for visibilty fields</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+   var job_type = g_form.getValue('job_type');
+    if (job_type == 'CF Simple' || job_type == 'CF Fixed Price Pole to Pillar' ||
+        job_type == 'CF Unmetered Supply' || job_type == 'CF Recoverable Works' || job_type == 'CF Asset Relocation') {
+        g_form.setVisible('application_processing', true);
+        g_form.setVisible('design_and_planning', true);
+        g_form.setVisible('cost_estimating_and_quoting', true);
+        g_form.setVisible('construction_quote_and_invoice', true);
+        g_form.setVisible('work_packaging_and_procurement', true);
+        g_form.setVisible('qa_and_data_update', true);
+        g_form.setVisible('capitalisation', true);
+        g_form.setVisible('close_out_and_completion', true);
+    } 
+	else if (job_type == 'CF Complex') {
+        g_form.setVisible('application_processing', true);
+		g_form.setVisible('design_fee_invoice',true);
+        g_form.setVisible('design_and_planning', true);
+        g_form.setVisible('cost_estimating_and_quoting', true);
+        g_form.setVisible('construction_quote_and_invoice', true);
+        g_form.setVisible('work_packaging_and_procurement', true);
+        g_form.setVisible('qa_and_data_update', true);
+        g_form.setVisible('capitalisation', true);
+        g_form.setVisible('close_out_and_completion', true);
+    }
+	else if (job_type == 'CF Subdivision') {
+        g_form.setVisible('application_processing', true);
+		g_form.setVisible('dip_fee_invoice',true);
+		g_form.setVisible('design_fee_invoice',true);
+        g_form.setVisible('design_and_planning', true);
+        g_form.setVisible('cost_estimating_and_quoting', true);
+        g_form.setVisible('construction_quote_and_invoice', true);
+        g_form.setVisible('work_packaging_and_procurement', true);
+        g_form.setVisible('qa_and_data_update', true);
+        g_form.setVisible('capitalisation', true);
+        g_form.setVisible('close_out_and_completion', true);
+    }
+	else if (job_type == 'IF Capital Project') {
+        g_form.setVisible('business_case', true);
+		g_form.setVisible('design_and_planning', true);
+        g_form.setVisible('cost_estimating_and_quoting', true);
+        g_form.setVisible('work_packaging_and_procurement', true);
+        g_form.setVisible('qa_and_data_update', true);
+        g_form.setVisible('capitalisation', true);
+        g_form.setVisible('close_out_and_completion', true);
+    }
+	else if (job_type == 'P1') {
+        g_form.setVisible('work_packaging_and_procurement', true);
+        g_form.setVisible('qa_and_data_update', true);
+        g_form.setVisible('close_out_and_completion', true);
+    }
+	else if (job_type == 'R2' || job_type == 'P2' || job_type == 'PQI') {
+        g_form.setVisible('design_and_planning', true);
+        g_form.setVisible('cost_estimating_and_quoting', true);
+        g_form.setVisible('work_packaging_and_procurement', true);
+        g_form.setVisible('qa_and_data_update', true);
+        g_form.setVisible('close_out_and_completion', true);
+    }
+	else if (job_type == 'R1') {
+        g_form.setVisible('qa_and_data_update', true);
+        g_form.setVisible('close_out_and_completion', true);
+    }
+	else if (job_type == 'Work in the Vicinity' || job_type == 'Oversize Load Escort' || job_type == 'Discon / Recon') {
+        g_form.setVisible('work_packaging_and_procurement', true);
+        g_form.setVisible('qa_and_data_update', true);
+        g_form.setVisible('close_out_and_completion', true);
+    }
+	else if (job_type == 'WAPC Application' || job_type == 'HP Internal Queries' || job_type == 'Feasibility Study') {
+        g_form.setVisible('work_packaging_and_procurement', true);
+        g_form.setVisible('qa_and_data_update', true);
+        g_form.setVisible('close_out_and_completion', true);
+    }
+	else if (job_type == 'Incident Investigation') {
+       g_form.setVisible('design_and_planning', true);
+       g_form.setVisible('cost_estimating_and_quoting', true);
+       g_form.setVisible('close_out_and_completion', true);
+    }
+else{
+	g_form.setVisible('application_processing', false);
+		g_form.setVisible('design_fee_invoice',false);
+        g_form.setVisible('design_and_planning', false);
+        g_form.setVisible('cost_estimating_and_quoting', false);
+        g_form.setVisible('construction_quote_and_invoice', false);
+        g_form.setVisible('work_packaging_and_procurement', false);
+        g_form.setVisible('qa_and_data_update', false);
+        g_form.setVisible('capitalisation', false);
+        g_form.setVisible('close_out_and_completion', false);
+}
+
+   //Type appropriate comment here, and begin script below
+   }]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-10 16:36:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>17d01597472f351014300592e36d4309</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Show conditions for visibilty fields</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Work management" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work management">eeca1c124763311014300592e36d4395</sys_scope>
+        <sys_update_name>sys_script_client_17d01597472f351014300592e36d4309</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-12 05:03:05</sys_updated_on>
+        <table>x_1025229_wm_wm_job_details</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

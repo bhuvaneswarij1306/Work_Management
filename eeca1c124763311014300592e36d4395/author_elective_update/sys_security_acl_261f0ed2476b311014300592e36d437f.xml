@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>false</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Allow write for application_processing in x_1025229_wm_wm_job_details, for users with role x_1025229_wm.customer_experience_team.</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1025229_wm_wm_job_details.application_processing</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <security_attribute display_value="x_1025229_wm__ACL_261f0ed2476b311014300592e36d437f">0534d2d6476b311014300592e36d431a</security_attribute>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-07 18:20:20</sys_created_on>
+        <sys_id>261f0ed2476b311014300592e36d437f</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>x_1025229_wm_wm_job_details.application_processing</sys_name>
+        <sys_package display_value="WM" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WM">eeca1c124763311014300592e36d4395</sys_scope>
+        <sys_update_name>sys_security_acl_261f0ed2476b311014300592e36d437f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-07 18:35:35</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Work management">eeca1c124763311014300592e36d4395</application>
+        <file_path/>
+        <instance_id>9e30697edb3e4050387021c4059619e6</instance_id>
+        <instance_name>dev100078</instance_name>
+        <name>sys_security_acl_261f0ed2476b311014300592e36d437f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>false</admin_overrides><advanced>false</advanced><condition/><description>Allow write for application_processing in x_1025229_wm_wm_job_details, for users with role x_1025229_wm.customer_experience_team.</description><local_or_existing>Local</local_or_existing><name>x_1025229_wm_wm_job_details.application_processing</name><operation display_value="write">write</operation><script/><security_attribute display_value="x_1025229_wm__ACL_261f0ed2476b311014300592e36d437f">0534d2d6476b311014300592e36d431a</security_attribute><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-07 18:20:20</sys_created_on><sys_id>261f0ed2476b311014300592e36d437f</sys_id><sys_mod_count>5</sys_mod_count><sys_name>x_1025229_wm_wm_job_details.application_processing</sys_name><sys_package display_value="WM" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package><sys_policy/><sys_scope display_value="WM">eeca1c124763311014300592e36d4395</sys_scope><sys_update_name>sys_security_acl_261f0ed2476b311014300592e36d437f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-07 18:35:35</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-400437112</payload_hash>
+        <record_name>x_1025229_wm_wm_job_details.application_processing</record_name>
+        <reverted_from/>
+        <source>66ca1c124763311014300592e36d439a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-07 18:35:35</sys_created_on>
+        <sys_id>917512da476b311014300592e36d4345</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ce53578ac0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-07 18:35:35</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>997512da686b3110ce1c7a78f15e1f44</update_guid>
+        <update_guid_history>997512da686b3110ce1c7a78f15e1f44:-400437112,e56512d62d6b3110765bd9edfa2078fc:-1054467527,d2845a5a506b3110c53331d668ced209:1637718955,1e445a5a126b311092aad1afb8f6d296:-263923919,c2341a5a7b6b31107f1209afa39a1e86:1756634576,25f15e96c36b3110192e1707cbaa4e59:-1636279626</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-07 18:42:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>a8441fc75ca0466084ca9c4c7e3edc10</sys_id>
+        <sys_metadata>261f0ed2476b311014300592e36d437f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1025229_wm_wm_job_details.application_processing</sys_name>
+        <sys_package display_value="Work management" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package>
+        <sys_parent display_value="">ca35c1524727311014300592e36d437d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Work management">eeca1c124763311014300592e36d4395</sys_scope>
+        <sys_scope_delete display_value="">4807491dc1804798979cc7a23f579984</sys_scope_delete>
+        <sys_update_name>sys_security_acl_261f0ed2476b311014300592e36d437f</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_261f0ed2476b311014300592e36d437f">917512da476b311014300592e36d4345</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-07 18:42:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

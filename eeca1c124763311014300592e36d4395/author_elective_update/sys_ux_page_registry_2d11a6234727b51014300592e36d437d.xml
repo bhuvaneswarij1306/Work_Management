@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>2111a6234727b51014300592e36d437e</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <parent_app/>
+        <path>work-management</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-01-11 16:38:54</sys_created_on>
+        <sys_id>2d11a6234727b51014300592e36d437d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Work management</sys_name>
+        <sys_package display_value="Work management" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work management">eeca1c124763311014300592e36d4395</sys_scope>
+        <sys_update_name>sys_ux_page_registry_2d11a6234727b51014300592e36d437d</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-01-11 16:38:54</sys_updated_on>
+        <title>Work management</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Work management">eeca1c124763311014300592e36d4395</application>
+        <file_path/>
+        <instance_id>9e30697edb3e4050387021c4059619e6</instance_id>
+        <instance_name>dev100078</instance_name>
+        <name>sys_ux_page_registry_2d11a6234727b51014300592e36d437d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>2111a6234727b51014300592e36d437e</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes>{"login":"login","logout": "login"}</auth_routes><page/><parent_app/><path>work-management</path><root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-01-11 16:38:54</sys_created_on><sys_id>2d11a6234727b51014300592e36d437d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Work management</sys_name><sys_package display_value="Work management" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package><sys_policy/><sys_scope display_value="Work management">eeca1c124763311014300592e36d4395</sys_scope><sys_update_name>sys_ux_page_registry_2d11a6234727b51014300592e36d437d</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-01-11 16:38:54</sys_updated_on><title>Work management</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>948714342</payload_hash>
+        <record_name>Work management</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-11 16:41:34</sys_created_on>
+        <sys_id>b5b12a634727b51014300592e36d43e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18cf96682560000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-11 16:41:34</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>75b12a639527b510f0405d937cd624e7</update_guid>
+        <update_guid_history>75b12a639527b510f0405d937cd624e7:948714342</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-11 16:41:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>0154f6b066754f1e8111602e36764b91</sys_id>
+        <sys_metadata>2d11a6234727b51014300592e36d437d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Work management</sys_name>
+        <sys_package display_value="Work management" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Work management">eeca1c124763311014300592e36d4395</sys_scope>
+        <sys_scope_delete display_value="">4807491dc1804798979cc7a23f579984</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_2d11a6234727b51014300592e36d437d</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_2d11a6234727b51014300592e36d437d">b5b12a634727b51014300592e36d43e7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-11 16:41:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="b511a623ac27b5108d5639f36b5ed1ef" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_1025229_wm">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-01-11 16:38:51</sys_created_on>
+            <sys_id>7111a6236227b5102c0a961d9a00d0f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="bd11a6233227b510193e5b4827e33eef">b511a623ac27b5108d5639f36b5ed1ef</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-01-11 16:38:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-01-11 16:38:51</sys_created_on>
+            <sys_id>7911a6234427b510a7d829bc828313f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="bd11a6233227b510193e5b4827e33eef">b511a623ac27b5108d5639f36b5ed1ef</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-01-11 16:38:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-01-11 16:38:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b511a623ac27b5108d5639f36b5ed1ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Work management" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Work management">eeca1c124763311014300592e36d4395</sys_scope>
+            <sys_update_name>sys_ui_section_b511a623ac27b5108d5639f36b5ed1ef</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-01-11 16:38:51</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal (x_1025229_wm)" name="custom_portal_approval_x_1025229_wm">bd11a6233227b510193e5b4827e33eef</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Work management">eeca1c124763311014300592e36d4395</application>
+        <file_path/>
+        <instance_id>9e30697edb3e4050387021c4059619e6</instance_id>
+        <instance_name>dev100078</instance_name>
+        <name>sys_ui_section_b511a623ac27b5108d5639f36b5ed1ef</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="b511a623ac27b5108d5639f36b5ed1ef" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_1025229_wm"><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>0</position><sys_created_by>system</sys_created_by><sys_created_on>2024-01-11 16:38:51</sys_created_on><sys_id>7111a6236227b5102c0a961d9a00d0f0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="bd11a6233227b510193e5b4827e33eef">b511a623ac27b5108d5639f36b5ed1ef</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-01-11 16:38:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sysapproval</element><position>1</position><sys_created_by>system</sys_created_by><sys_created_on>2024-01-11 16:38:51</sys_created_on><sys_id>7911a6234427b510a7d829bc828313f0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="bd11a6233227b510193e5b4827e33eef">b511a623ac27b5108d5639f36b5ed1ef</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-01-11 16:38:51</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sysapproval_approver</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-01-11 16:38:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b511a623ac27b5108d5639f36b5ed1ef</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sysapproval_approver</sys_name><sys_overrides/><sys_package display_value="Work management" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package><sys_policy/><sys_scope display_value="Work management">eeca1c124763311014300592e36d4395</sys_scope><sys_update_name>sys_ui_section_b511a623ac27b5108d5639f36b5ed1ef</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-01-11 16:38:51</sys_updated_on><sys_user/><title>false</title><view display_value="Custom portal (x_1025229_wm)" name="custom_portal_approval_x_1025229_wm">bd11a6233227b510193e5b4827e33eef</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1177440285</payload_hash>
+        <record_name>Approval</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-11 16:42:07</sys_created_on>
+        <sys_id>82d1ee234727b51014300592e36d4340</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18cf96706650000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-11 16:42:07</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>42d1ee23e427b510a1558cf6a7cd7f40</update_guid>
+        <update_guid_history>42d1ee23e427b510a1558cf6a7cd7f40:-1177440285</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-11 16:42:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>273a5e579bcd4ce8b99079ddf3612640</sys_id>
+        <sys_metadata>b511a623ac27b5108d5639f36b5ed1ef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sysapproval_approver</sys_name>
+        <sys_package display_value="Work management" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package>
+        <sys_parent display_value="Sysapproval Approver">70fd84e4d9b13110cedf7dffddb48fc2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Work management">eeca1c124763311014300592e36d4395</sys_scope>
+        <sys_scope_delete display_value="">4807491dc1804798979cc7a23f579984</sys_scope_delete>
+        <sys_update_name>sys_ui_section_b511a623ac27b5108d5639f36b5ed1ef</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_b511a623ac27b5108d5639f36b5ed1ef">82d1ee234727b51014300592e36d4340</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-11 16:42:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

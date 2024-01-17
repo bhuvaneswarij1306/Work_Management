@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="number" label="Applicant ID" language="en" table="x_1025229_wm_wm_applicant_details">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <help/>
+            <hint/>
+            <label>Applicant ID</label>
+            <language>en</language>
+            <name>x_1025229_wm_wm_applicant_details</name>
+            <plural>Applicant IDs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 10:11:57</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Applicant ID</sys_name>
+            <sys_package display_value="Work management" source="x_1025229_wm">eeca1c124763311014300592e36d4395</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Work management">eeca1c124763311014300592e36d4395</sys_scope>
+            <sys_update_name>sys_documentation_x_1025229_wm_wm_applicant_details_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 10:35:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
